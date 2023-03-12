@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87518415205",
+    "project_id": "saveworld-12120",
+    "storage_bucket": "saveworld-12120.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87518415205:android:3911a5f9ee9bcf372c398c",
+        "android_client_info": {
+          "package_name": "com.example.task_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87518415205-rsgcqjcc400m96d1kjmffc8vnie3k7uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1jEMdKU3ymIb8N_nF0TS0A4QqXWykXbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87518415205-rsgcqjcc400m96d1kjmffc8vnie3k7uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
